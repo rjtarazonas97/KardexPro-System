@@ -1,0 +1,6 @@
+@KardexApi_HostAddress = http://localhost:5105
+
+GET {{KardexApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

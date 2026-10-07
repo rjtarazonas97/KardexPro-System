@@ -1,0 +1,11 @@
+# Node & Frontend
+node_modules/
+dist/
+.env
+
+# Visual Studio & .NET Backend
+bin/
+obj/
+.vs/
+*.user
+*.suo
